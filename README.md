@@ -3,6 +3,17 @@
 ## 名前
 インスタバエアルゴリズム
 
+## 環境構築
+scikit-learn    1.3.2  
+matplotlib      3.8.0  
+numpy           1.26.1  
+```
+pip install numpy
+pip install matplotlib
+pip install scikit-learn
+```
+
+
 ## 着想
 人間がSNSでいいねを獲得しようとする行動を模した進化的計算手法。いいね数を稼ぐために動画の方針を決定するアルゴリズム。個体: Instagrammer, Youtuber。評価: いいね数。
 
